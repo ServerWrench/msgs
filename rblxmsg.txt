@@ -1,0 +1,14 @@
+I am making a game for Roblox. It has a Roblox Studio Like UI, and it is basically a game making thing for any device that supports Roblox. I have questions and concerns.
+
+1. Am I allowed to implement AI into my game?
+
+2. If anyone breaks the Roblox TOS in their own game published into my servers, it is NOT my responsibility. Any game published with inappropriate content, slurs, cussing, etc. is not my responsibility unless it was my server (to let you know I would not ever implement those into my game)
+
+3. Is it allowed if I accessed the Roblox Creator Dashboard (models and plugins, etc.) into my game?
+
+4. I have a file type I can use to export servers. I have my own website to do that. Can I make it so that it can send data (the coding type I use) from the game to the website? (.srv file type and can be converted to Roblox Studio Game by purchasing a Developer Gamepass, 40 robux to convert 1 server). You can easily convert RBXLX to SRV using a website thing, for free. SRV can be exported for free, but the RBXLX can not be exported for free.
+Can I use number 4 in my game?
+
+More questions may be replied to on the email. Sorry about the fact you had to go to GitHub to read my full message. The char limit is too low for my message.
+
+-- The Cameron J Iusi Systems for RoServers
